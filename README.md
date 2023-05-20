@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Netfluxx
-- 🌱 I generally code in python, but i know the basics of javascript, html, css, and a tiny bit of bash
-- 📫 How to reach me : arno.blan334@gmail.com
+- ⚙️ I generally code in c++ and python, but i know the basics of javascript, html, css, and a tiny bit of bash
 
 <!---
 Netfluxx/Netfluxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
