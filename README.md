@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Netfluxx
+- 👋 Hi, I’m @Netfluxx, a student at EPFL
 - ⚙️ I generally code in c++ and python, but i know the basics of javascript, html, css, and a tiny bit of bash
 
 <!---
