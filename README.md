@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Netfluxx, a student at EPFL
-- ⚙️ I generally code in c++ and python, but i know the basics of javascript, html, css, and a tiny bit of bash
+- ⚙️ I code in c++ and python, but i know the basics of javascript, html, css, and a bit of bash
 
 <!---
 Netfluxx/Netfluxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
